@@ -575,7 +575,7 @@ const UI = {
                                 <h4  class="text-sm font-bold text-white"> Video hướng dẫn cài đặt và sử dụng chi tiết</h4>
                                 <p  class="text-xs text-slate-400 mt-1">
                                 <a href="https://www.youtube.com/watch?v=JhguLUFVBbY&list=PLJAmOL0Ow42KualkqQloggfTfZOnShUxz" target="_blank"  class="hover:text-slate-300 transition-colors">
-                            👉Bấm vào đây, xem Video và làm theo từng bước
+                            👉Bấm vào đây, xem 📽️Video và làm theo từng bước
                         </a></p>
                             </div>
                         </div>

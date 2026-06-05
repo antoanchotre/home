@@ -551,6 +551,17 @@ const UI = {
                             <i data-lucide="archive" class="w-4 h-4 mr-2"></i><span data-i18n="dl_zip"></span>
                         </a>
                     </div>
+                    <div>
+                    <h3 class="text-lg font-bold text-white mb-2">Sau khi tải phần mềm cài đặt, hãy làm theo một trong hai hướng dẫn dưới đây</h3>
+                    <p></p>
+                        <a href="/guideline.html" target="_blank">
+                            Tài liệu hướng dẫn cài đặt và sử dụng chi tiết
+                        </a>
+                    <p></p>
+                        <a href="https://www.youtube.com/watch?v=JhguLUFVBbY&list=PLJAmOL0Ow42KualkqQloggfTfZOnShUxz" target="_blank">
+                            Video hướng dẫn cài đặt và sử dụng chi tiết
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>

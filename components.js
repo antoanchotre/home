@@ -558,7 +558,7 @@ const UI = {
         <section id="download" class="py-12 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                 <div>                    
-                    <h2 class="text-2xl md:text-4xl font-bold text-gradient mt-4 mb-8 leading-tight">Sau khi tải phần mềm cài đặt, hãy làm theo một trong hai hướng dẫn dưới đây</h2>
+                    <h3 class="text-lg font-bold text-white mb-2">Sau khi tải phần mềm, hãy thực hiện theo một trong hai hướng dẫn sau.</h3>
                                         
                     <div class="space-y-6">
                         <div class="flex space-x-4">

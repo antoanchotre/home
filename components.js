@@ -40,7 +40,8 @@ const i18nDictionary = {
         // Plan 1 - Family Basic (was p1)
         p1_t: "Gói Gia Đình Cơ Bản",
         p1_sub: "Bao gồm tính năng gói Miễn Phí + lọc web theo danh mục.",
-        p1_p: "99.000đ",
+        //p1_p: "99.000đ",
+        p1_p: "Dùng thử",
         p1_l1: "Bao gồm tính năng gói Miễn Phí",
         p1_l2: "Lọc website theo danh mục",
         p1_l3: "Lưu dữ liệu 30 ngày",
@@ -49,7 +50,8 @@ const i18nDictionary = {
         // Plan 2 - Family Plus (was p2)
         p2_t: "Gói Gia Đình Nâng Cao",
         p2_sub: "Mở rộng tính năng cơ bản với kiểm soát ứng dụng và báo cáo xu hướng.",
-        p2_p: "149.000đ",
+        //p2_p: "149.000đ",
+        p2_p: "Dùng thử",
         p2_l1: "Bao gồm Gói Gia Đình Cơ Bản",
         p2_l2: "Chặn ứng dụng & lọc web nâng cao",
         p2_l3: "Báo cáo xu hướng sử dụng",
@@ -59,7 +61,8 @@ const i18nDictionary = {
         // Plan 3 - Premium (was p3)
         p3_t: "Gói Cao Cấp",
         p3_sub: "Quyền kiểm soát cao cấp và điều khiển từ xa cho gia đình.",
-        p3_p: "249.000đ",
+        //p3_p: "249.000đ",
+        p3_p: "Dùng thử",
         p3_l1: "Bao gồm Gói Gia Đình Nâng Cao",
         p3_l2: "Thông báo thời gian thực",
         p3_l3: "Tắt máy từ xa / tạm ngưng thiết bị",
@@ -69,7 +72,8 @@ const i18nDictionary = {
         // Plan 4 - Premium AI (was p4)
         p4_t: "Gói Cao Cấp AI",
         p4_sub: "Bảo vệ cao cấp với phân tích rủi ro và hành vi bằng AI.",
-        p4_p: "399.000đ",
+//        p4_p: "399.000đ",
+        p4_p: "Dùng thử",
         p4_l1: "Bao gồm Gói Cao Cấp",
         p4_l2: "Phân tích rủi ro bằng AI",
         p4_l3: "Phân tích hành vi truy cập bằng AI",
@@ -81,7 +85,7 @@ const i18nDictionary = {
         dl_exe: "Tải file .exe (cài đặt trực tiếp)",
         dl_zip: "Tải file .zip (nén, giải nén thủ công)",
 
-        btn_buy: "Bắt đầu ngay", btn_trial: "Miễn phí hè này", p_recom: "Khuyên dùng", btn_soon: "Sắp ra mắt", 
+        btn_buy: "Bắt đầu ngay", btn_trial: "Miễn phí dùng thử", p_recom: "Khuyên dùng", btn_soon: "Sắp ra mắt", 
 
         // FAQ
         faq_title: "Các câu hỏi thường gặp",

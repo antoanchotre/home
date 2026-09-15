@@ -564,7 +564,7 @@ const UI = {
                         <div class="flex space-x-4">
                             <div class="w-8 h-8 rounded-full bg-slate-900 border border-white/10 flex items-center justify-center text-xs font-bold text-white">1</div>
                             <div>
-                                <h4 data-i18n="ai_step_1_t" class="text-sm font-bold text-white">Tài liệu hướng dẫn cài đặt và sử dụng chi tiết</h4>
+                                <h4 class="text-sm font-bold text-white">Tài liệu hướng dẫn cài đặt và sử dụng chi tiết</h4>
                                 <p class="text-xs text-slate-400 mt-1">
                                 <a href="guideline.html" target="_blank"  class="hover:text-slate-300 transition-colors">👉Bấm vào đây, đọc và làm theo tài liệu</a></p>
                             </div>
